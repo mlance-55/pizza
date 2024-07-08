@@ -3,7 +3,7 @@ This is a repository to practice creating and uploading repositories
 
 ## About me
 
-* [GitHub Profile] (https://github.com/mlance-55)
+* [GitHub Profile](https://github.com/mlance-55)
 
 ## Special Thanks
 
